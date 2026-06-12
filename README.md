@@ -119,6 +119,6 @@ flutter run
 
 **Vimansa Siyasinghe**  
 BSc (Hons) Software Engineering — NSBM Green University  
-[GitHub](https://github.com/Vimansa-Siyasing) · [LinkedIn](https://linkedin.com/in/vimansa-siyasinghe)
+[GitHub](https://github.com/Vimansa-Siyasing) · [LinkedIn](https://linkedin.com/in/Vimansa Siyasinghe)
 
 ---

@@ -1,4 +1,3 @@
-agroscan_app
 # 🌾 AgroScan — AI-Powered Rice Leaf Disease Detection
 
 <p align="center">
@@ -53,13 +52,17 @@ Rice is Sri Lanka's most important staple crop. Early disease detection allows f
 
 ## 📸 Screenshots
 
-| Login | Home | Scanner |
+| Login | Home | Home 2 |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Scanner](screenshots/scanner.png) |
+| ![Login](login.jpeg) | ![Home](home.jpeg) | ![Home2](home2.jpeg) |
 
-| Disease Result | Scan History | Treatment Tips |
+| Scanner | Scan | Scan History |
 |---|---|---|
-| ![Result](screenshots/result.png) | ![History](screenshots/history.png) | ![Treatment](screenshots/treatment.png) |
+| ![Scanner](scanner.jpeg) | ![Scan](scan.jpeg) | ![History](history.jpeg) |
+
+| Treatment Tips |
+|---|
+| ![Treatment](treatement.jpeg) |
 
 ---
 
@@ -118,6 +121,6 @@ flutter run
 
 **Vimansa Siyasinghe**  
 BSc (Hons) Software Engineering — NSBM Green University  
-[GitHub](https://github.com/Vimansa-Siyasing) · [LinkedIn](https://linkedin.com/in/vimansa Siyasinghe)
+[GitHub](https://github.com/Vimansa-Siyasing) · [LinkedIn](https://linkedin.com/in/vimansa-siyasinghe)
 
 ---

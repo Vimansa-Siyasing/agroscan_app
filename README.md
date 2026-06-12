@@ -51,7 +51,6 @@ Rice is Sri Lanka's most important staple crop. Early disease detection allows f
 ---
 
 ## 📸 Screenshots
-
 <p align="center">
   <img src="login.jpeg" height="400"/>
   <img src="home.jpeg" height="400"/>
